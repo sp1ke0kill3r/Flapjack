@@ -3,3 +3,8 @@
 # current running processes/ (flag for what is using most resources) number of updates avail/etc
 #
 # OBTAIN & ORGANIZE SYSTEM INFO
+
+
+hostname
+ip addr show eth0
+ss -l
